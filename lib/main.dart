@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:practice/Currency_Converter_App/currency_converter.dart';
 import 'package:practice/Weather_App/weather_app.dart';
 
 void main() {
